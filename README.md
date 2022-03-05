@@ -5,9 +5,9 @@
 </h4>
 <p align="center">
     <a href="https://t.me/YukkiRobot"> Ready-To-Use Bot </a> •
-    <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/OfficialYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
+    <a href="https://abhishekraza.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
+    <a href="https://t.me/stranger_yarr"> Support Channel </a> •
+    <a href="https://t.me/quick_mcq"> Support Chat </a> 
 </p>
     
 # Yukki Music Bot
@@ -65,7 +65,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/Blacklover854333/YukkiMusicBot
 shikhar@MacBook~ $ cd YukkiMusicBot
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
@@ -86,9 +86,9 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/OfficialYukki)
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Telegram Channel](https://t.me/stranger_yarr)
+- [Telegram Support Group](https://t.me/quick_mcq)
+- [Contact Owner](https://t.me/abhishekraza)
 
 
 ## License
